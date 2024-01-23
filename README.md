@@ -33,9 +33,8 @@ Kourt Bailey who helped me get started on the project, specifically in finding d
 ## Features
 Project features an app which converts the data into api with an option to search statistical data by date. Also features a jupyter notebook with data analysis.
 
-
-
 ## Contact
 If there are any questions of concerns, I can be reached at:
 ##### [github: eaccooper5](https://github.com/eaccooper5)
 ##### [email: erinaccooper@gmail.com](mailto:erinaccooper@gmail.com)
+
